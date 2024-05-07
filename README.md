@@ -1,7 +1,8 @@
 # EBH-Restaurant-Automation
 ## Lokanta Otomasyonu Veri Tabanı Projesi
 ### *(C#, Visual Studio, MySQL, RDBMS)* <br/>
-`Ensar Akbaş` <br/>
+`Ensar Akbaş` <br/> <br/>
+`(Proje grup çalışmasıyla hazırlanmıştır.)` <br/>
 
 **Admin ve Personel Giriş Sayfaları** <br/> <br/>
 <img width="245" alt="yönetici_giriş" src="https://github.com/ensarakbas77/EBH-Restaurant-Automation/assets/118851779/18834831-9612-428c-a77a-3b63eae5a55a">
